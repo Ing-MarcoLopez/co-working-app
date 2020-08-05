@@ -3,8 +3,6 @@ import Cards from './components/Cards/Cards'
 
 const App = () => {
 
-    //Comentarios
-
     const [data, setData] = useState([]);
 
     useEffect(() => {
